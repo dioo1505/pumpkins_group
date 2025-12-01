@@ -11,6 +11,18 @@
   padding: 0 15px;
   margin: 0 auto;
 }
-h1{
+h1 {
   color: orange;
+}
+.first_section {
+  width: 1440px;
+  height: 380px;
+  display: flex;
+  padding: 32px 144px;
+  gap: 78px;
+  margin-top: 73px;
+}
+.first_section_text {
+  width: 748px;
+  height: 324px;
 }
